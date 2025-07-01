@@ -3,7 +3,7 @@
 #nome = input("Digite seu nome:")
 #idade = int(input("Digite sua idade"))
 
-#print("Olá", nome)
+#2print("Olá", nome)
 
 a = int(input("Digite o primeiro número:"))
 b = int(input("Digite o segundo número:"))
